@@ -13,11 +13,6 @@ The 100 Days of Code Challenge is a personal commitment to code every day for 10
 - Enhance coding proficiency in Python.
 - Build a solid foundation for technical interviews and campus placements.
 
-## Repository Structure
-
-- `/dayX`: Each day of the challenge will have its own dedicated folder, such as `day1`, `day2`, and so on. Inside each folder, you will find the code and any relevant documentation for that particular day.
-- `/resources`: This folder contains any additional resources, study materials, or reference materials that I find useful during the challenge.
-
 ## Progress
 
 I will regularly update the repository with my progress. Each day, I will commit my code, document my learnings, and summarize the challenges I encountered. Feel free to explore the repository to see my coding journey unfold.
